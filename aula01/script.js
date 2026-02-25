@@ -1,6 +1,6 @@
 var nome = "João";
 
-var ida color: red;de = 67;
+var idade = 67;
 
 var altura = 1.82;
 
@@ -15,4 +15,4 @@ document.write(nome + "<br>" );
 document.write(idade + "<br>" );
 document.write(altura + "<br>" );
 
-document.write("<p style=' color: red'>" + "Voce ja viveu " + idade * 365 + " dias" + /p>"); 
+document.write( "<p style= 'color : red'>Você ja viveu " + dias + " dias</p>")
